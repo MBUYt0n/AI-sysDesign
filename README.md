@@ -12,7 +12,7 @@
     - Prompt patterns
 
 - [Inference optimization](https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization/)
-- [Flash attention]()
+- [Flash attention](https://www.youtube.com/watch?v=gBMO1JZav44)
 - TensorRT
 - Triton
 - Quantization
@@ -20,3 +20,6 @@
 
 ![Things to learn](figures/image.png)
 <p align="center">Todo</p>
+
+## Reasoning
+
