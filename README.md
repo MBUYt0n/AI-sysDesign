@@ -1,7 +1,9 @@
 # AI System Design
 
 ## Systems
-- JIT
+- [JIT](https://www.youtube.com/watch?v=d7KHAVaX_Rs)
+- [JIT - 2](https://www.youtube.com/watch?v=KVvGVPc7QM8)
+- [multiple programming languages?](https://www.youtube.com/watch?v=XJC5WB2Bwrc)
 
 
 
@@ -13,6 +15,9 @@
 
 - [Inference optimization](https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization/)
 - [Flash attention](https://www.youtube.com/watch?v=gBMO1JZav44)
+    - safe softmax
+    - tiling
+    - online softmax
 - TensorRT
 - Triton
 - Quantization
